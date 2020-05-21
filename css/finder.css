@@ -1,0 +1,51 @@
+nav{
+    background-color: aqua;
+}
+
+#name{
+    width: 100%;
+}
+
+.btn{
+    margin: 15px;
+}
+
+.button{
+    margin: 2px;
+}
+
+.repo-list{
+    border: 2px solid #333333;
+    border-radius: 10px;
+    padding: 0;
+    margin-bottom: 2px;
+}
+
+.repo-name{
+    font-size: 30px;
+    margin: 0;
+}
+
+.btn{
+    margin: 2px 5px;
+}
+
+hr{
+    margin: 0;
+}
+
+.github-profile{
+    display: flex;
+}
+
+.flex-box{
+    display: flex;
+    align-items: flex-end;
+}
+
+.image{
+    margin: 20px;
+    height: 325px;
+    max-width: 90%;
+    box-sizing: border-box;
+}
